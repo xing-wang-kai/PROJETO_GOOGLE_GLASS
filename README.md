@@ -6,5 +6,10 @@ A página utiliza práticas modernas de estilização com CSS e marcação de ta
 
 ![Google Glass Gif](./_imagens/googleglass.gif)
 
+<div align="center">
+
+[google glass](https://projeto-google-glass-lake.vercel.app/)
 
 feito com :heart: por kai Wang!
+
+</div>
